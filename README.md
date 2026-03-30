@@ -1,4 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/freaksixeyes/freaksixeyes/blob/main/satoru-gojo-icegif-5.gif" width="90%">
+</p>
+<div align="center">
+  <h3>𝒮𝓊𝓅𝑒𝓇 𝒮𝑒𝓃𝒾𝑜𝓇</h3>
+  <br>
+  <p>I really enjoy gi, roblox, and digimon </p>
+  <br>
+  <p>he/him-</p>
+</div>
+
 
 <!--
 **Freaksixeyes67/Freaksixeyes67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
