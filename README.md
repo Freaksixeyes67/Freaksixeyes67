@@ -1,6 +1,3 @@
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/fd3da116-75ef-4b84-b180-8b2588b22573"
-
 
 <div align="center">
   <h3>𝒮𝓊𝓅𝑒𝓇 𝒮𝑒𝓃𝒾𝑜𝓇</h3>
